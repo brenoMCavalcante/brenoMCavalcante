@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate in everything I can
 - 📫 How to reach me: @breno.marabotti on instagram
-- 👨‍💻 I am studying Analysis and systems development
+- 👨‍💻 I am studying Analysis and Systems Development
 
 <!---
 brenoMCavalcante/brenoMCavalcante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
